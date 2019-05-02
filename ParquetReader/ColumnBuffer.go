@@ -5,11 +5,11 @@ import (
 	"io"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Layout"
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/khoandthcn/parquet-go/Common"
+	"github.com/khoandthcn/parquet-go/Layout"
+	"github.com/khoandthcn/parquet-go/ParquetFile"
+	"github.com/khoandthcn/parquet-go/SchemaHandler"
+	"github.com/khoandthcn/parquet-go/parquet"
 )
 
 type ColumnBufferType struct {

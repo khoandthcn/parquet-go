@@ -3,8 +3,8 @@ package SizeTool
 import (
 	"testing"
 
-	"github.com/xitongsys/parquet-go/ParquetReader"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/khoandthcn/parquet-go/ParquetReader"
+	"github.com/khoandthcn/parquet-go/parquet"
 )
 
 func TestGetParquetFileSize(t *testing.T) {

@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/ParquetReader"
-	"github.com/xitongsys/parquet-go/ParquetWriter"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/khoandthcn/parquet-go/ParquetFile"
+	"github.com/khoandthcn/parquet-go/ParquetReader"
+	"github.com/khoandthcn/parquet-go/ParquetWriter"
+	"github.com/khoandthcn/parquet-go/parquet"
 )
 
 type Student struct {

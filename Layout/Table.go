@@ -1,8 +1,8 @@
 package Layout
 
 import (
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/khoandthcn/parquet-go/Common"
+	"github.com/khoandthcn/parquet-go/parquet"
 )
 
 func NewTableFromTable(src *Table) *Table {

@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/ParquetReader"
-	"github.com/xitongsys/parquet-go/tool/parquet-tools/SchemaTool"
-	"github.com/xitongsys/parquet-go/tool/parquet-tools/SizeTool"
+	"github.com/khoandthcn/parquet-go/ParquetFile"
+	"github.com/khoandthcn/parquet-go/ParquetReader"
+	"github.com/khoandthcn/parquet-go/tool/parquet-tools/SchemaTool"
+	"github.com/khoandthcn/parquet-go/tool/parquet-tools/SizeTool"
 )
 
 func main() {
